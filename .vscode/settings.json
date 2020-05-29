@@ -1,0 +1,37 @@
+{
+  "cSpell.words": [
+    "Tuhin",
+    "meghoshpritam",
+    "predeploy",
+    "stylelint"
+  ],
+  "emmet.showAbbreviationSuggestions": true,
+  "emmet.showExpandedAbbreviation": "always",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "jsx-sublime-babel-tags": "javascriptreact"
+  },
+  "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
+  "[javascriptreact]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
+  },
+  "editor.formatOnSave": true,
+  "[typescript]": {
+    "editor.formatOnSave": false,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
+  },
+  "[typescriptreact]": {
+    "editor.formatOnSave": false,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
+  }
+}

@@ -2,6 +2,8 @@
 
 Personal work showing gallery
 
+## Check the [demo](https://meghoshpritam.github.io/gallery)
+
 ## Includes
 
 - [Redux Toolkit](https://redux-toolkit.js.org/)

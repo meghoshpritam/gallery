@@ -32,7 +32,7 @@ devDependencies:
   eslint-plugin-prettier: 3.1.3_eslint@6.8.0+prettier@2.0.5
   eslint-plugin-react: 7.20.0_eslint@6.8.0
   eslint-plugin-react-hooks: 4.0.4_eslint@6.8.0
-  gh-pages: 2.2.0
+  gh-pages: 3.0.0
   prettier: 2.0.5
   stylelint: 13.5.0
   stylelint-config-prettier: 8.0.1_stylelint@13.5.0
@@ -5810,7 +5810,7 @@ packages:
     dev: false
     resolution:
       integrity: sha1-Xv+OPmhNVprkyysSgmBOi6YhSfo=
-  /gh-pages/2.2.0:
+  /gh-pages/3.0.0:
     dependencies:
       async: 2.6.3
       commander: 2.20.3
@@ -5820,10 +5820,10 @@ packages:
       globby: 6.1.0
     dev: true
     engines:
-      node: '>=6'
+      node: '>=10'
     hasBin: true
     resolution:
-      integrity: sha512-c+yPkNOPMFGNisYg9r4qvsMIjVYikJv7ImFOhPIVPt0+AcRUamZ7zkGRLHz7FKB0xrlZ+ddSOJsZv9XAFVXLmA==
+      integrity: sha512-oaOfVcrSwnqoWUgZ6cmCDM6mUuWyOSG+SHjqxGBawN0F3SKaF5NwbeYDG+w2RNXO2HJ/5Iam4o7dP5NAtoHuwQ==
   /glob-parent/3.1.0:
     dependencies:
       is-glob: 3.1.0
@@ -13314,7 +13314,7 @@ specifiers:
   eslint-plugin-prettier: ^3.1.3
   eslint-plugin-react: ^7.20.0
   eslint-plugin-react-hooks: ^4.0.4
-  gh-pages: ^2.2.0
+  gh-pages: ^3.0.0
   node-sass: ^4.14.1
   prettier: ^2.0.5
   react: ^16.13.1
